@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookShop</string>
+    <string name="elsharkawy_book_shop">Elsharkawy Book Shop</string>
+    <string name="about">About :</string>
+    <string name="aboutshop">Book shop for selling rare books in all fields such as romantic , political , entertainment , educational ...etc</string>
+    <string name="address">Address :</string>
+    <string name="qutor_tanta_egypt">Qutor-Tanta-Egypt</string>
+    <string name="phone_20_1159759468">phone:+(20)1159759468</string>
+    <string name="contact_info">Contact info:</string>
+    <string name="website_www_bookshop_com">website:www.bookshop.com</string>
+    <string name="book_shop_image">Book shop image</string>
+    <string name="shop_open_all_days_except_friday">shop open all days except friday</string>
+</resources>
